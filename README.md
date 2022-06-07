@@ -1,5 +1,5 @@
 # News App
-Project as a part of Android Basics Nanodegree at Udacity
+
 
 ### Project Overview
 
